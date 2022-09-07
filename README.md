@@ -1,2 +1,3 @@
-# dio-oficina-database
-Modelagem inicial básica de uma oficina
+# DIO - Database Experience
+Projeto: Modelagem inicial básica de uma oficina.
+Bootcamp Data Innovation One.
